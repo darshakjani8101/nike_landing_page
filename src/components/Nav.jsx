@@ -21,6 +21,12 @@ const Nav = () => {
             </li>
           ))}
         </ul>
+        <a
+          href="/"
+          className="font-montserrat leading-normal text-lg text-slate-gray font-semibold"
+        >
+          Sign in / Explore now
+        </a>
         <div className="hidden max-lg:block">
           <img src={hamburger} alt="Hamburger" width={25} height={25} />
         </div>
