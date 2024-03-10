@@ -23,7 +23,7 @@ const Nav = () => {
         </ul>
         <a
           href="/"
-          className="font-montserrat leading-normal text-lg text-slate-gray font-semibold"
+          className="font-montserrat leading-normal text-lg text-slate-gray font-semibold max-lg:hidden"
         >
           Sign in / Explore now
         </a>
