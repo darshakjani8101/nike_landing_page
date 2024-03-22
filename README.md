@@ -1,3 +1,9 @@
+<div align="center">
+  <br />
+      <img src="https://github.com/darshakjani8101/nike_landing_page/blob/main/src/assets/readme_img.png" alt="Project Banner">
+  <br />
+</div>
+
 # Nike Landing Page
 
 This project is a responsive landing page inspired by Nike's sleek design, built using React.js and styled with Tailwind CSS. With a focus on simplicity and elegance, this landing page aims to showcase the latest products from Nike in an engaging and visually appealing manner.
